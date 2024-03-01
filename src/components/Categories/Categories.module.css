@@ -1,0 +1,6 @@
+
+
+.category:hover {
+    box-shadow: inset;
+    transition: 0.5s;
+}
